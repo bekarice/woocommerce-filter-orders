@@ -1,7 +1,7 @@
 === WooCommerce Filter Orders by Coupon ===
 Contributors: skyverge, beka.rice
 Tags: woocommerce, orders, filter orders, coupons
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@skyverge.com&item_name=Donation+for+WooCommerce+Extra+Product+Sorting
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@skyverge.com&item_name=Donation+for+WooCommerce+Filter+Orders
 Requires at least: 3.8
 Tested up to: 4.1
 Requires WooCommerce at least: 2.2

@@ -8,7 +8,7 @@
  * Version: 1.0.0
  * Text Domain: wc-filter-orders
  *
- * Copyright: (c) 2012-2015 SkyVerge, Inc. (info@skyverge.com)
+ * Copyright: (c) 2015-2015 SkyVerge, Inc. (info@skyverge.com)
  *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -16,7 +16,7 @@
  * @package   WC-Filter-Orders
  * @author    SkyVerge
  * @category  Admin
- * @copyright Copyright (c) 2012-2015, SkyVerge, Inc.
+ * @copyright Copyright (c) 2015-2015, SkyVerge, Inc.
  * @license   http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License v3.0
  *
  */
@@ -156,7 +156,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		if ( ! empty( $_GET['_coupons_used'] ) ) {
 	
 			// Main WHERE query part
-			$where .= $wpdb->prepare( " AND woi.order_item_type='coupon' AND woi.order_item_name='%s'", $_GET['_coupons_used'] );
+			$where .= $wpdb->prepare( " AND woi.order_item_type='coupon' AND woi.order_item_name='%s'", wc_clean( $_GET['_coupons_used'] ) );
 		}
 	
 		return $where;
