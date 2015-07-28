@@ -5,7 +5,7 @@
  * Description: Adds the ability to filter orders by the coupon used.
  * Author: SkyVerge
  * Author URI: http://www.skyverge.com/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: wc-filter-orders
  *
  * Copyright: (c) 2015-2015 SkyVerge, Inc. (info@skyverge.com)
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
  class WC_Filter_Orders {
 	
 	
-	const VERSION = '1.0.0';
+	const VERSION = '1.0.1';
 	
 	
 	public function __construct() {

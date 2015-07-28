@@ -3,10 +3,10 @@ Contributors: skyverge, beka.rice
 Tags: woocommerce, orders, filter orders, coupons
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@skyverge.com&item_name=Donation+for+WooCommerce+Filter+Orders
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.3
 Requires WooCommerce at least: 2.2
-Tested WooCommerce up to: 2.3
-Stable Tag: 1.0.0
+Tested WooCommerce up to: 2.4
+Stable Tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -16,7 +16,7 @@ Adds custom filtering to the orders screen to allow filtering by coupon used.
 
 This plugin adds a new filtering option to the orders screen. This allows you to filter your orders by the coupon used within the order.
 
-> **Requires: WooCommerce 2.2+**, Compatible with WooCommerce 2.3
+> **Requires: WooCommerce 2.2+**, Compatible with WooCommerce 2.3 and 2.4
 
 **There are no settings**. The plugin will add the filtering dropdown automatically to the "Orders" screen while active.
 
@@ -61,6 +61,9 @@ Yes you can! Join in on our [GitHub repository](https://github.com/bekarice/wooc
 1. The new coupon filter added to the Orders page
 
 == Changelog ==
+
+= 2015.07.27 - version 1.0.1 =
+ * Misc: WooCommerce 2.4 compatibility
 
 = 2015.03.06 - version 1.0.0 =
  * Initial Release
