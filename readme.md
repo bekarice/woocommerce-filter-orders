@@ -16,6 +16,9 @@ Only coupons that are "published" (no drafts) will be available in the filtering
 
 ### Changelog
 
+**2017.06.27 - version 1.1.0**
+ * Misc: Code cleanup
+
 **2015.07.27 - version 1.0.1**
  * Misc: WooCommerce 2.4 compatibility
 
