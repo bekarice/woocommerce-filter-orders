@@ -64,6 +64,7 @@ Yes you can! Join in on our [GitHub repository](https://github.com/bekarice/wooc
 == Changelog ==
 
 = 2017.06.27 - version 1.1.0 =
+ * Feature: Add support for GitHub Updater
  * Misc: Code cleanup
 
 = 2015.07.27 - version 1.0.1 =

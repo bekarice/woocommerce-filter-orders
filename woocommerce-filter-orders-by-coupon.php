@@ -8,6 +8,9 @@
  * Version: 1.1.0
  * Text Domain: wc-filter-orders
  *
+ * GitHub Plugin URI: bekarice/woocommerce-filter-orders/
+ * GitHub Branch: master
+ *
  * Copyright: (c) 2015-2017 SkyVerge, Inc. (info@skyverge.com)
  *
  * License: GNU General Public License v3.0
